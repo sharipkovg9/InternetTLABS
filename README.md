@@ -9,7 +9,7 @@
 
 [Ссылка на личный репозиторий](https://github.com/sharipkovg9/InternetTLABS)
 
-[Ссылка на личную страницу]()
+[Ссылка на личную страницу](https://sharipkovg9.github.io/InternetTLABS/)
 ## ✅Лабораторная работа №2
 Разработка простого веб-приложения:
 
