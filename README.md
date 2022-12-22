@@ -20,7 +20,7 @@
 [Ссылка на страницу проекта](https://github.com/zhelnovandrew/IT_Project)
 ## ✅Лабораторная работа №3
 1. Предоставление ранее выполненных работ по теме "Настройка локальной сети передачи данных".
-2. Загрузка в Git-репозиторий отчета о проделанной работе в Cisco Packet Tracer.
+2. [Отчет] (https://drive.google.com/file/d/1lbWwipcKEyosiwSgstgpVAIwBaMhoExt/view?usp=sharing) о проделанной работе в Cisco Packet Tracer.
 ## ✅Экзаменационный билет №10
 Ответы на выбранный билет:
 
