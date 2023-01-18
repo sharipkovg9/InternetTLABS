@@ -24,7 +24,7 @@
 ## ✅Экзаменационный билет №10
 Ответы на выбранный билет:
 
-[Билет №10](https://github.com/stankin/inet-2022/wiki/exam10-3)
+[Билет №10](https://github.com/stankin/inet-2022/wiki/exam10)
 
 
 
